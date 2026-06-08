@@ -1,0 +1,8 @@
+livekit-agents
+livekit-plugins-anthropic
+livekit-plugins-deepgram
+livekit-plugins-silero
+livekit-plugins-noise-cancellation
+livekit-plugins-turn-detector
+python-dotenv
+httpx
